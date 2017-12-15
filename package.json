@@ -1,5 +1,5 @@
 {
-  "name": "ember-metrics",
+  "name": "@cspanring/ember-metrics",
   "version": "0.12.1",
   "description": "Send data to multiple analytics integrations without re-implementing new API",
   "directories": {
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember try:each"
   },
-  "repository": "https://github.com/poteto/ember-metrics",
+  "repository": "https://github.com/cspanring/ember-metrics",
   "bugs": "https://github.com/poteto/ember-metrics/issues",
   "homepage": "https://github.com/poteto/ember-metrics",
   "engines": {
